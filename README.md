@@ -8,10 +8,10 @@
   * List of summary
     
     1. 김남우 
-     * [제목](Link)
+       * [제목](Link)
  
     2. 김동훈 
-      * [W1_This-C](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md)
+       * [W1_This-C](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md)
  
  
  ## 2주차 요약본 & 수업자료 Link
@@ -34,10 +34,10 @@
  ## 4주차 요약본 & 수업자료 Link
    * 4주차 수업내용 요약
      1. 김남우 
-       * [제목] <Link>
+        * [제목] <Link>
      2. 김동훈
-       * [W4_Python(GodsofPy).md](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W4_Python(GodsofPy).md)
-       * [W4_Python](https://github.com/d-h-k/MDS_week_material/tree/master/W4_Python)
+        * [W4_Python(GodsofPy).md](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W4_Python(GodsofPy).md)
+        * [W4_Python](https://github.com/d-h-k/MDS_week_material/tree/master/W4_Python)
  
  
  ## 5주차 요약본 & 수업자료 Link
