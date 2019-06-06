@@ -1,7 +1,20 @@
 # course-resources
  * [MDS아카데미](http://www.mdsacademy.co.kr/) MDS아카데미 바로가기
  * [커리큘럼](http://www.mdsacademy.co.kr/customer/board_view.php?board_idx=1595&schField=&schWord=&search_div=notice&size=10&page=1) 커리큘럼 자세히 보기
-  
+ 
+ ## 교육과정 외 학습 참조 Link
+  * List of Reference
+    1. 김남우
+    2. 김동훈
+       * [VIM환경설정, 코드컨벤션](https://github.com/d-h-k/DHKim_EnvSettings)
+       * [ARM 펌웨어 설계 강좌 수업정리,From baram님](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/ARM_FW.md)
+       * [ros-seminar,From robotpilot님](https://github.com/d-h-k/ros-seminar.git)
+       * [InfineonRacer, From ACE lab](https://github.com/realsosy/InfineonRacer)
+       * 깃허브가 생소하신 분들을 위해 [git-training, From Teaung](https://github.com/Taeung/git-training)
+              ->>명심해 Github가 스카이넷이야
+       * 마크다운이 생소하신 분들을 위해 -1 []     
+       * 마크다운이 생소하신 분들을 위해 -1 []     
+              
  ## 1주차 요약본 & 수업자료 Link
   * [1주차 수업내용 요약](https://github.com/our-self-driving-cars/course-resources/blob/master/week01-c/1%EC%A3%BC%EC%B0%A8%20%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9)
   
