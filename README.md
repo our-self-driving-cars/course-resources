@@ -7,11 +7,12 @@
  ## 1주차 수업자료 Link
   * 1주차 수업내용 요약 <https://github.com/our-self-driving-cars/course-resources/blob/master/week01-c/1%EC%A3%BC%EC%B0%A8%20%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9>
   
-   List of summary
-   1.김남우 
-     [제목] <Link> 
-   2.김동훈 
-     [W1_This-C](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md)
+  * List of summary
+    1.김남우 
+      [제목] <Link> 
+ 
+    2.김동훈 
+      [W1_This-C](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md)
  
   >>>>>> ★★링크가 안걸려요 ㅜㅠ 도와줘요 갓남우 
   * 1주차 수업자료 <>
