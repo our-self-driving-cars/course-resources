@@ -6,14 +6,13 @@
   * List of Reference
     1. 김남우
     2. 김동훈
-       * [VIM환경설정, 코드컨벤션](https://github.com/d-h-k/DHKim_EnvSettings)
-       * [ARM 펌웨어 설계 강좌 수업정리,From baram님](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/ARM_FW.md)
-       * [ros-seminar,From robotpilot님](https://github.com/d-h-k/ros-seminar.git)
-       * [InfineonRacer, From ACE lab](https://github.com/realsosy/InfineonRacer)
-       * 깃허브가 생소하신 분들을 위해 [git-training, From Teaung](https://github.com/Taeung/git-training)
+       * 생산성 향상을 위한 나만의 환경설정 : [VIM환경설정& 코드컨벤션](https://github.com/d-h-k/DHKim_EnvSettings)
+       * MCU학습 : [ARM 펌웨어 설계 강좌 수업정리 / From baram님](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/ARM_FW.md)
+       * ROS플랫폼 학습 : [ros-seminar / From robotpilot님](https://github.com/d-h-k/ros-seminar.git)
+       * 인피니언 MCU및 모형차 프로젝트 활용 : [InfineonRacer / From ACE lab](https://github.com/realsosy/InfineonRacer)
+       * 깃허브가 생소하신 분들을 위해 : [git-training / From Teaung님](https://github.com/Taeung/git-training)
               ->>명심해 Github가 스카이넷이야
-       * 마크다운이 생소하신 분들을 위해 -1 []     
-       * 마크다운이 생소하신 분들을 위해 -1 []     
+       * 마크다운이 생소하신 분들을 위해 : [From ihoneymon님](https://gist.github.com/ihoneymon/652be052a0727ad59601)      
               
  ## 1주차 요약본 & 수업자료 Link
   * [1주차 수업내용 요약](https://github.com/our-self-driving-cars/course-resources/blob/master/week01-c/1%EC%A3%BC%EC%B0%A8%20%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9)
