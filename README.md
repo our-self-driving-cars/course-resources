@@ -1,8 +1,7 @@
 # course-resources
 수업자료
-
-
-[네이버주소](http://www.naver.com)는 링크를 눌러보면 됩니다.
+[MDS아카데미](http://www.mdsacademy.co.kr/) MDS아카데미 바로가기
+[커리큘럼](http://www.mdsacademy.co.kr/customer/board_view.php?board_idx=1595&schField=&schWord=&search_div=notice&size=10&page=1) 커리큘럼 자세히 보기
 
  ## 1주차 수업자료 Link
   * 1주차 수업내용 요약 <https://github.com/our-self-driving-cars/course-resources/blob/master/week01-c/1%EC%A3%BC%EC%B0%A8%20%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9>
