@@ -10,6 +10,7 @@
    2.김동훈 
      [W1_This-C]<https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md> 
   ```
+  > 링크가 안걸려요 ㅜㅠ 도와줘요 갓남우 
  
  ## 2주차 수업자료 Link
     [2주차 수업자료 요약본]
