@@ -93,6 +93,17 @@
  
  ## 프로젝트 센터 Link
  
+ ## 추천도서 List
+   01. [케라스 창시자에게 배우는 딥러닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160505979)
+   02. [뇌를 자극하는 알고리즘](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788979146875&orderClick=LAH&Kc=)
+   03. [알고리즘 인생을 계산하다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788935212057&orderClick=LAH&Kc=)
+   04. []()
+   05. []()
+   06. []()
+   07. []()
+   08. []()
+   09. []()
+   10. []()
  
  
   * [공부한것을 나눠야 하는이유](https://www.youtube.com/watch?v=KF3ZzK1cTJ8)
