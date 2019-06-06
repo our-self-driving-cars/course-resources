@@ -33,8 +33,8 @@
     1. 김남우 
       [제목](Link)
     2. 김동훈
-      [W3_This-Cpp.md](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W3_This-Cpp.md)
-      [W3_meterial](https://github.com/d-h-k/MDS_week_material/tree/master/W3_meterial)
+      * [W3_This-Cpp.md](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W3_This-Cpp.md)
+      * [W3_meterial](https://github.com/d-h-k/MDS_week_material/tree/master/W3_meterial)
  
  ## 4주차 수업자료 Link
    * 4주차 수업내용 요약
