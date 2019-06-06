@@ -1,8 +1,15 @@
 # course-resources
  * [MDS아카데미](http://www.mdsacademy.co.kr/) MDS아카데미 바로가기
  * [커리큘럼](http://www.mdsacademy.co.kr/customer/board_view.php?board_idx=1595&schField=&schWord=&search_div=notice&size=10&page=1) 커리큘럼 자세히 보기
- 
- ## 교육과정 외 학습 참조 Link
+ ## 학습 서적
+  1. [이것이 C언어다](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968481024&orderClick=JAj)
+     * [저자카페](https://cafe.naver.com/thisisc)
+  2. 내부자료
+  3. [이것이 C++이다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482465&orderClick=LAG&Kc=)
+     * [저자카페](https://cafe.naver.com/windev)
+  4. [파이썬의 신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&linkClass=331503&barcode=9788997924271)
+     * [저자카페](https://cafe.naver.com/godofpython)
+ ## 교육과정 외 학습 참고사항
   * List of Reference
     1. 김남우
     2. 김동훈
