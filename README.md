@@ -3,12 +3,12 @@
  * [커리큘럼](http://www.mdsacademy.co.kr/customer/board_view.php?board_idx=1585&schField=&schWord=&search_div=notice&size=10&page=1) 커리큘럼 자세히 보기
  * [커리큘럼 mirror(190606박제)](https://github.com/our-self-driving-cars/course-resources/blob/master/metrial/%ED%95%9C%EC%BB%B4MDS%20IT%EC%9C%B5%ED%95%A9%20%EC%A0%84%EB%AC%B8%EA%B5%90%EC%9C%A1%EC%84%BC%ED%84%B0-%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.pdf)
  ## 학습 서적
-  1. [이것이 C언어다](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968481024&orderClick=JAj)
+  1. 1주차:C언어 -> [이것이 C언어다](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968481024&orderClick=JAj)
      * [저자카페](https://cafe.naver.com/thisisc)
-  2. 내부자료
-  3. [이것이 C++이다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482465&orderClick=LAG&Kc=)
+  2. 2주차:C언어 심화 -> MDS내부자료
+  3. 3주차:C++ 언어 -> [이것이 C++이다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482465&orderClick=LAG&Kc=)
      * [저자카페](https://cafe.naver.com/windev)
-  4. [파이썬의 신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&linkClass=331503&barcode=9788997924271)
+  4. 4주차:Python 언어 -> [파이썬의 신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&linkClass=331503&barcode=9788997924271)
      * [저자카페](https://cafe.naver.com/godofpython)
  ## 교육과정 외 학습 참고사항
   * List of Reference
