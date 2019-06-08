@@ -5,7 +5,7 @@
  ## 학습 서적
   1. 1주차:C언어 -> [이것이 C언어다](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968481024&orderClick=JAj)
      * [저자카페](https://cafe.naver.com/thisisc)
-  2. 2주차:C언어 심화 -> MDS내부자료
+  2. 2주차:C언어 심화 -> MDS내부자료, MDS2450보드 활용 C언어 임베디드 
   3. 3주차:C++ 언어 -> [이것이 C++이다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968482465&orderClick=LAG&Kc=)
      * [저자카페](https://cafe.naver.com/windev)
   4. 4주차:Python 언어 -> [파이썬의 신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&linkClass=331503&barcode=9788997924271)
