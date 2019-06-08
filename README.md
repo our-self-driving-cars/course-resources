@@ -31,7 +31,8 @@
        * [제목](Link)
  
     2. 김동훈 
-       * [W1_This-C](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md)
+       * [W1_This-C 수업요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md)
+       * [W1_C언어 자료 모음]()
  
  
  ## 2주차 요약본 & 수업자료 Link
@@ -39,8 +40,9 @@
     1. 김남우 
        * [제목](Link)
     2. 김동훈 
-       * [W2_Embedded](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W2_Embedded.md)
-       * [W2_MDS2450_review](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W2_MDS2450_review.md)
+       * [W2_Embedded-C 핵심정리&요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W2_Embedded.md)
+       * [W2_MDS2450_하드웨어 셋업 정리](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W2_MDS2450_review.md)
+       * [W2_MDS2450_하드웨어 자료 모음]()
  
  
  ## 3주차 요약본 & 수업자료 Link
@@ -48,16 +50,16 @@
     1. 김남우 
        * [제목](Link)
     2. 김동훈
-       * [W3_This-Cpp.md](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W3_This-Cpp.md)
-       * [W3_meterial](https://github.com/d-h-k/MDS_week_material/tree/master/W3_meterial)
+       * [W3_이것이 C++이다 핵심정리&요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W3_This-Cpp.md)
+       * [W3_meterial_수업자료](https://github.com/d-h-k/MDS_week_material/tree/master/W3_meterial)
  
  ## 4주차 요약본 & 수업자료 Link
    * 4주차 수업내용 요약
      1. 김남우 
         * [제목] <Link>
      2. 김동훈
-        * [W4_Python(GodsofPy).md](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W4_Python(GodsofPy).md)
-        * [W4_Python](https://github.com/d-h-k/MDS_week_material/tree/master/W4_Python)
+        * [W4_Python(GodsofPy)핵심정리&요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W4_Python(GodsofPy).md)
+        * [W4_Python_수업자료](https://github.com/d-h-k/MDS_week_material/tree/master/W4_Python)
  
  
  ## 5주차 요약본 & 수업자료 Link
