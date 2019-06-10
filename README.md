@@ -30,7 +30,7 @@
     1. 김남우 
        * [제목](Link)
  
-    2. 김동훈 
+    2. [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs)
        * [W1_This-C 수업요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md)
        * [W1_C언어 자료 모음]()
  
