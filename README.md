@@ -15,12 +15,11 @@
  
               
  ## 1주차 요약본 & 수업자료 Link
-  * [1주차 수업내용 요약](https://github.com/our-self-driving-cars/course-resources/blob/master/week01-c/1%EC%A3%BC%EC%B0%A8%20%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9)
-  
-  * List of summary
+   * List of summary
     
     * [김남우](https://github.com/NamWoo/self_driving_car) 
-       * [제목](Link)
+       * [OT](https://github.com/NamWoo/self_driving_car/blob/master/courses/OT/OT.md)
+       * [1주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w01.md)
  
     * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs)
        * [W1_This-C 수업요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md)
@@ -30,7 +29,7 @@
  ## 2주차 요약본 & 수업자료 Link
   * List of summary
     * 김남우 
-       * [제목](Link)
+       * [2주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w02.md)
     * 김동훈 
        * [W2_Embedded-C 핵심정리&요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W2_Embedded.md)
        * [W2_MDS2450_하드웨어 셋업 정리](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W2_MDS2450_review.md)
@@ -40,7 +39,7 @@
  ## 3주차 요약본 & 수업자료 Link
   * 3주차 수업내용 요약
     * 김남우 
-       * [제목](Link)
+       * [3주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w03.md)
     * 김동훈
        * [W3_이것이 C++이다 핵심정리&요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W3_This-Cpp.md)
        * [W3_meterial_수업자료](https://github.com/d-h-k/MDS_week_material/tree/master/W3_meterial)
@@ -48,19 +47,17 @@
  ## 4주차 요약본 & 수업자료 Link
    * 4주차 수업내용 요약
      1. 김남우 
-        * [제목] <Link>
+        * [4주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w04.md)
      2. 김동훈
         * [W4_Python(GodsofPy)핵심정리&요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W4_Python(GodsofPy).md)
         * [W4_Python_수업자료](https://github.com/d-h-k/MDS_week_material/tree/master/W4_Python)
  
  
  ## 5주차 요약본 & 수업자료 Link
-   * 5주차 수업내용 요약
-   
      1. 김남우 
-       [MDS2450] <Link>
+       [5주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w05.md)
      2. 김동훈
-       [...] <Link>
+       [...](Link)
    
  
  ## 6주차 수업자료 Link
