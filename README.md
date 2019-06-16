@@ -12,47 +12,7 @@
   4. 4주차 : Python 언어 -> [파이썬의 신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&linkClass=331503&barcode=9788997924271)
      * [저자카페](https://cafe.naver.com/godofpython)
   5. 5주차 : [강사님의 Github](https://github.com/guileschool)   
- ## 교육과정 외 학습 참고사항
-  * List of Reference
-    1. 김남우
-    2. 김동훈
-       * 생산성 향상을 위한 나만의 환경설정 : [VIM환경설정& 코드컨벤션](https://github.com/d-h-k/DHKim_EnvSettings)
-       * MCU학습 : [ARM 펌웨어 설계 강좌 수업정리 / From baram님](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/ARM_FW.md)
-       * ROS플랫폼 학습 : [ros-seminar / From robotpilot님](https://github.com/d-h-k/ros-seminar.git)
-       * 인피니언 MCU및 모형차 프로젝트 활용 : [InfineonRacer / From ACE lab](https://github.com/realsosy/InfineonRacer)
-       * 깃허브가 생소하신 분들을 위해 : [git-training / From Teaung님](https://github.com/Taeung/git-training)
-              ->>명심해 Github가 스카이넷이야
-       * 마크다운이 생소하신 분들을 위해 : [From ihoneymon님](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
-       * make/makefile 튜토리얼 : [From tuwlab님]
-         1. [Makefile 예제와 작성 방법 및 기본 패턴](https://www.tuwlab.com/27193)
-         2. [CMake 소개와 예제, 내부 동작 원리](https://www.tuwlab.com/27234)
-         3. [CMakeLists.txt 주요 명령과 변수 정리](https://www.tuwlab.com/27260)
-         4. [CMakeLists.txt 기본 패턴](https://www.tuwlab.com/27270)
-    
  
-    * [VIM환경설정& 코드컨벤션/생산성 향상을 위한 나만의 환경설정](https://github.com/d-h-k/DHKim_EnvSettings)
-    * [김남우님의 마크다운 강의록 정리]()
-    * [학습 도서 리스트](https://github.com/d-h-k/My-PPAK-DOK-List/blob/master/README.md)
-   
- #
- ## 무료교육
-   * [최호성님의 컴퓨터 구조 기본](https://www.youtube.com/watch?v=uEzDvDw-L0o&t=12s)
-   * [최호성님의 CPU가 작동하는 원리](https://www.youtube.com/watch?v=BSDRpQr85qk)
-   * [더미의 FPGA 책/무료](https://cafe.naver.com/alteratown?iframe_url=/ArticleRead.nhn%3Fclubid=17573046%26menuid=%26boardtype=L%26page=1%26specialmenutype=%26userDisplay=15%26articleid=5744)
-   * [푸우님의 Coretex-M3 강의 동영상/무료](https://cafe.naver.com/embeddedcrazyboys/4592)
-   * [푸우님의 Coretex-M3 강의 교안/무료](https://cafe.naver.com/embeddedcrazyboys/4525)
- 
- #
- ## 유료교육
-   * [C++ GUI 심화 QT/유료](https://www.udemy.com/qt-c-gui-tutorial-for-complete-beginners/)
-   * [임베디드 리눅스 포팅 심화 비글본/유료](https://www.udemy.com/embedded-linux-step-by-step-using-beaglebone/)
-   * [Free RTOS 강좌/유료](https://www.udemy.com/freertos-on-arm-processors/)
-   * [TI MSP430 MCU 강좌 링크/유료](https://www.udemy.com/mcu_msp430/)
-     * [TI MSP430 실습](https://www.element14.com/community/docs/DOC-78213/l/an-introduction-to-microcontrollers-and-the-c-programming-language-info?ICID=TIvalpo-udemy-topban#coursebreakdown)
-     * [TI 페이지](http://www.ti.com/tool/MSP-EXP430FR6989)
-     https://cafe.naver.com/embeddedcrazyboys
-   * [FPGA 강의/유료](https://www.udemy.com/learn-the-essentials-of-vhdl-and-fpga-development/)
-  
               
  ## 1주차 요약본 & 수업자료 Link
   * [1주차 수업내용 요약](https://github.com/our-self-driving-cars/course-resources/blob/master/week01-c/1%EC%A3%BC%EC%B0%A8%20%EC%88%98%EC%97%85%EB%82%B4%EC%9A%A9)
@@ -127,7 +87,45 @@
  
  ## 프로젝트 센터 Link
  
+ ## 교육과정 외 학습 참고사항
+  * List of Reference
+    1. 김남우
+    2. 김동훈
+       * 생산성 향상을 위한 나만의 환경설정 : [VIM환경설정& 코드컨벤션](https://github.com/d-h-k/DHKim_EnvSettings)
+       * MCU학습 : [ARM 펌웨어 설계 강좌 수업정리 / From baram님](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/ARM_FW.md)
+       * ROS플랫폼 학습 : [ros-seminar / From robotpilot님](https://github.com/d-h-k/ros-seminar.git)
+       * 인피니언 MCU및 모형차 프로젝트 활용 : [InfineonRacer / From ACE lab](https://github.com/realsosy/InfineonRacer)
+       * 깃허브가 생소하신 분들을 위해 : [git-training / From Teaung님](https://github.com/Taeung/git-training)
+              ->>명심해 Github가 스카이넷이야
+       * 마크다운이 생소하신 분들을 위해 : [From ihoneymon님](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
+       * make/makefile 튜토리얼 : [From tuwlab님]
+         1. [Makefile 예제와 작성 방법 및 기본 패턴](https://www.tuwlab.com/27193)
+         2. [CMake 소개와 예제, 내부 동작 원리](https://www.tuwlab.com/27234)
+         3. [CMakeLists.txt 주요 명령과 변수 정리](https://www.tuwlab.com/27260)
+         4. [CMakeLists.txt 기본 패턴](https://www.tuwlab.com/27270)
+    
  
- 
-  * [공부한것을 나눠야 하는이유](https://www.youtube.com/watch?v=KF3ZzK1cTJ8)
+    * [VIM환경설정& 코드컨벤션/생산성 향상을 위한 나만의 환경설정](https://github.com/d-h-k/DHKim_EnvSettings)
+    * [김남우님의 마크다운 강의록 정리]()
+    * [학습 도서 리스트](https://github.com/d-h-k/My-PPAK-DOK-List/blob/master/README.md)
+   
+ #
+ ## 무료교육
+   * [최호성님의 컴퓨터 구조 기본](https://www.youtube.com/watch?v=uEzDvDw-L0o&t=12s)
+   * [최호성님의 CPU가 작동하는 원리](https://www.youtube.com/watch?v=BSDRpQr85qk)
+   * [더미의 FPGA 책/무료](https://cafe.naver.com/alteratown?iframe_url=/ArticleRead.nhn%3Fclubid=17573046%26menuid=%26boardtype=L%26page=1%26specialmenutype=%26userDisplay=15%26articleid=5744)
+   * [푸우님의 Coretex-M3 강의 동영상/무료](https://cafe.naver.com/embeddedcrazyboys/4592)
+   * [푸우님의 Coretex-M3 강의 교안/무료](https://cafe.naver.com/embeddedcrazyboys/4525)
+   * [공부한것을 나눠야 하는이유](https://www.youtube.com/watch?v=KF3ZzK1cTJ8)
+  
+ #
+ ## 유료교육
+   * [C++ GUI 심화 QT/유료](https://www.udemy.com/qt-c-gui-tutorial-for-complete-beginners/)
+   * [임베디드 리눅스 포팅 심화 비글본/유료](https://www.udemy.com/embedded-linux-step-by-step-using-beaglebone/)
+   * [Free RTOS 강좌/유료](https://www.udemy.com/freertos-on-arm-processors/)
+   * [TI MSP430 MCU 강좌 링크/유료](https://www.udemy.com/mcu_msp430/)
+     * [TI MSP430 실습](https://www.element14.com/community/docs/DOC-78213/l/an-introduction-to-microcontrollers-and-the-c-programming-language-info?ICID=TIvalpo-udemy-topban#coursebreakdown)
+     * [TI 페이지](http://www.ti.com/tool/MSP-EXP430FR6989)
+     https://cafe.naver.com/embeddedcrazyboys
+   * [FPGA 강의/유료](https://www.udemy.com/learn-the-essentials-of-vhdl-and-fpga-development/)
   
