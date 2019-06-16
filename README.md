@@ -15,48 +15,37 @@
   * 4주차 : Python 
     * [파이썬의 신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&linkClass=331503&barcode=9788997924271)
     * [저자카페](https://cafe.naver.com/godofpython)
-  * 5주차 : [강사님의 Github](https://github.com/guileschool)   
- 
-              
+  * 5주차 : [강사님의 Github](https://github.com/guileschool)                 
  ## 1주차 요약본 & 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car) 
      * [OT](https://github.com/NamWoo/self_driving_car/blob/master/courses/OT/OT.md)
-     * [1주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w01.md)
- 
+     * [1주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w01.md) 
    * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs)
      * [1주차 This-C 수업요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W1_This-C.md)
-     * [1주차 C언어 자료 모음]()
- 
- 
+     * [1주차 C언어 자료 모음]() 
  ## 2주차 요약본 & 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car)
      * [2주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w02.md)
    * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs)
      * [2주차 Embedded-C 핵심정리&요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W2_Embedded.md)
-     * [2주차 MDS2450_하드웨어 셋업 정리](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W2_MDS2450_review.md)
- 
+     * [2주차 MDS2450_하드웨어 셋업 정리](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W2_MDS2450_review.md) 
  ## 3주차 요약본 & 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car)
      * [3주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w03.md)
    * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs)
      * [3주차 이것이 C++이다 핵심정리&요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W3_This-Cpp.md)
-     * [3주차 meterial_수업자료](https://github.com/d-h-k/MDS_week_material/tree/master/W3_meterial)
- 
+     * [3주차 meterial_수업자료](https://github.com/d-h-k/MDS_week_material/tree/master/W3_meterial) 
  ## 4주차 요약본 & 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car) 
      * [4주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w04.md)
    * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs)
      * [4주차 Python(GodsofPy)핵심정리&요약](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W4_Python(GodsofPy).md)
-     * [4주차 Python_수업자료](https://github.com/d-h-k/MDS_week_material/tree/master/W4_Python)
- 
- 
+     * [4주차 Python_수업자료](https://github.com/d-h-k/MDS_week_material/tree/master/W4_Python) 
  ## 5주차 요약본 & 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car)
      * [5주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w05.md)
    * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs)
-      * [5주차 MDS2450](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W5_MDS2450.md)
-   
- 
+      * [5주차 MDS2450](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W5_MDS2450.md) 
  ## 6주차 수업자료 Link
  
  ## 7주차 수업자료 Link
