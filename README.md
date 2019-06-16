@@ -2,6 +2,7 @@
  * [MDS아카데미](http://www.mdsacademy.co.kr/) MDS아카데미 바로가기
  * [커리큘럼](http://www.mdsacademy.co.kr/customer/board_view.php?board_idx=1585&schField=&schWord=&search_div=notice&size=10&page=1) 커리큘럼 자세히 보기
  * [커리큘럼 mirror(190606박제)](https://github.com/our-self-driving-cars/course-resources/blob/master/metrial/%ED%95%9C%EC%BB%B4MDS%20IT%EC%9C%B5%ED%95%A9%20%EC%A0%84%EB%AC%B8%EA%B5%90%EC%9C%A1%EC%84%BC%ED%84%B0-%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.pdf)
+ * [★★김남우님의 교육과정 정리★★](https://github.com/NamWoo/self_driving_car)
  ## 학습 서적
   1. 1주차 : C언어 -> [이것이 C언어다](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968481024&orderClick=JAj)
      * [저자카페](https://cafe.naver.com/thisisc)
@@ -58,7 +59,7 @@
   
   * List of summary
     
-    * 김남우 
+    * [김남우](https://github.com/NamWoo/self_driving_car) 
        * [제목](Link)
  
     * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs)
