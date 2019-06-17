@@ -46,7 +46,8 @@
      * [5주차 학습내용 정리](https://github.com/NamWoo/self_driving_car/blob/master/courses/w05.md)
    * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs)
       * [5주차 MDS2450](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W5_MDS2450.md) 
-   * [](https://github.com/Mombin/Summary/blob/master/Summary_5.md) 
+   * [김한빈](https://github.com/Mombin/Summary/blob/master/Summary_5.md)
+   *[강이경](https://github.com/leekyung91/mds_selfdriving_car/blob/master/new/w6d1/device_control_day6.md#1%EC%9D%BC%EC%B0%A8---%EC%B0%A8%EB%9F%89%EC%9A%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EC%9D%B4%ED%95%B4-%EB%B0%8F-%ED%99%9C%EC%9A%A9-%EC%8B%9C%EC%9E%91)
  ## 6주차 수업자료 Link
  
  ## 7주차 수업자료 Link
