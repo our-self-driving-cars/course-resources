@@ -15,7 +15,10 @@
   * 4주차 : Python 
     * [파이썬의 신](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&linkClass=331503&barcode=9788997924271)
     * [저자카페](https://cafe.naver.com/godofpython)
-  * 5주차 : [강사님의 Github](https://github.com/guileschool)                 
+  * 5주차 : [강사님의 Github](https://github.com/guileschool)   
+  * 6주차 : ARM 프로세서 아키텍쳐
+  * 7주차 : 리눅스 시스템 프로그래밍
+  * 8주차 :
  ## 1주차 요약본 & 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car) 
      * [OT](https://github.com/NamWoo/self_driving_car/blob/master/courses/OT/OT.md)
