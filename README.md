@@ -65,22 +65,21 @@
    * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/W9_DD.md)
  ## 10주차 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car/blob/master/courses/w10.md)
-   * [김동훈]()
  ## 11주차 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car/blob/master/courses/w11.md)
-   * [김동훈]()
+   * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/w11_ROS.md)
  ## 12주차 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car/blob/master/courses/w12.md)
-   * [김동훈]()
+   * [김동훈](https://github.com/d-h-k/MDS_DHKim_Docs/blob/master/w12_ML.md)
  ## 13주차 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car/blob/master/courses/w13.md)
-   * [김동훈]()
+   * [김동훈]
  ## 14주차 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car/blob/master/courses/w14.md)
-   * [김동훈]()
+   * [김동훈]
  ## 15주차 수업자료 Link
    * [김남우](https://github.com/NamWoo/self_driving_car/blob/master/courses/w15.md)
-   * [김동훈]()
+   * [김동훈]
  ## 16주차 수업자료 Link
-   * [김남우]()
-   * [김동훈]()
+   * [김남우]
+   * [김동훈]
